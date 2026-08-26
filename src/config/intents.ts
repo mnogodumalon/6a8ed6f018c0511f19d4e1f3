@@ -20,6 +20,7 @@
 import type { ComponentType } from 'react';
 
 // <custom:intent-imports>
+import { IconClipboardPlus, IconCameraPlus } from '@tabler/icons-react';
 // </custom:intent-imports>
 
 export interface IntentLink {
@@ -42,6 +43,8 @@ export interface IntentLink {
 
 export const INTENTS: IntentLink[] = [
   // <custom:intents>
+  { path: '/intents/auftrag-anlegen', label: { de: 'Auftrag anlegen', en: 'Create order' }, icon: IconClipboardPlus, description: 'Neuen Auftrag in 3 Schritten anlegen: Kunde, Monteur und Details' },
+  { path: '/intents/baudokumentation-erfassen', label: { de: 'Baudoku erfassen', en: 'Log site photo' }, icon: IconCameraPlus, description: 'Foto mit Notiz zu einem laufenden Auftrag erfassen' },
   // </custom:intents>
 ];
 
@@ -52,4 +55,4 @@ export const INTENTS: IntentLink[] = [
  * purpose — a scaffold update resets it to false (self-healing if Phase 2
  * never ran).
  */
-export const INTENTS_PENDING = true;
+export const INTENTS_PENDING = false;
