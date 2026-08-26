@@ -1,0 +1,28 @@
+{
+  "entities": {
+    "Kunden": {
+      "placeholders_set": 4,
+      "defaults_keys": [],
+      "computed_keys": [],
+      "reason": "Reine Stammdaten (Vorname, Nachname, Telefon, E-Mail) — nichts berechenbar"
+    },
+    "Monteure": {
+      "placeholders_set": 3,
+      "defaults_keys": [],
+      "computed_keys": [],
+      "reason": "Reine Stammdaten (Vorname, Nachname, Telefon) — nichts berechenbar"
+    },
+    "Aufträge": {
+      "placeholders_set": 10,
+      "defaults_keys": ["termin", "status"],
+      "computed_keys": [],
+      "reason": "Auftragsmanagement ohne Kostentracking — keine Number-Felder, keine Multiplikationen (Menge×Preis), keine Applookup-Ziele mit Preis-Felder"
+    },
+    "Baudokumentation": {
+      "placeholders_set": 3,
+      "defaults_keys": ["aufnahmedatum"],
+      "computed_keys": [],
+      "reason": "Dokumentations-Link mit Datumspräfixe — keine Number-Felder, keine Berechnungen"
+    }
+  }
+}

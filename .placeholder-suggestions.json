@@ -1,0 +1,30 @@
+{
+  "KundenDialog.tsx": {
+    "vorname": "z. B. Max",
+    "nachname": "z. B. Müller",
+    "telefon": "z. B. 030 123456",
+    "email": "z. B. max@example.com"
+  },
+  "MonteureDialog.tsx": {
+    "monteur_vorname": "z. B. Hans",
+    "monteur_nachname": "z. B. Schmidt",
+    "monteur_telefon": "z. B. 030 789456"
+  },
+  "AuftraegeDialog.tsx": {
+    "auftragsnummer": "z. B. AU-2026-001",
+    "kunde": "Kunde wählen",
+    "monteur": "Monteur zuweisen",
+    "strasse": "z. B. Hauptstraße",
+    "hausnummer": "z. B. 42",
+    "plz": "z. B. 10115",
+    "ort": "z. B. Berlin",
+    "beschreibung": "Beschreibung der Aufgaben, Arbeitsschritte, besondere Hinweise...",
+    "termin": "Wann soll es fertig sein?",
+    "status": "Aktuellen Status wählen"
+  },
+  "BaudokumentationDialog.tsx": {
+    "auftrag": "Zu welchem Auftrag?",
+    "notiz": "Notizen zur Baudokumentation, Fotos, Messwerte...",
+    "aufnahmedatum": "Wann wurde dokumentiert?"
+  }
+}

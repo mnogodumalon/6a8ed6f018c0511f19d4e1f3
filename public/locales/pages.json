@@ -1,0 +1,43 @@
+{
+  "pages": {
+    "en": {
+      "Alle dringenden Aufträge sichtbar": "All urgent orders visible",
+      "Als Fertig markieren": "Mark as Done",
+      "Auftrag in Arbeit": "Order In Progress",
+      "Auftrag unbekannt": "Order Unknown",
+      "Auftrag verschoben nach {0}": "Order Moved to {0}",
+      "Auftrag {0} — Status geändert": "Order {0} — Status Changed",
+      "Auftrag öffnen": "Open Order",
+      "Auftrag überfällig": "Order Overdue",
+      "Aufträge in Arbeit": "Orders In Progress",
+      "Aufträge überfällig": "Orders Overdue",
+      "Ersten Auftrag anlegen": "Create First Order",
+      "Fertig": "Done",
+      "Foto hinzufügen": "Add Photo",
+      "Gesamt": "Total",
+      "Heute": "Today",
+      "Heute fällig & überfällig": "Due Today & Overdue",
+      "Heute fällig: {0}.": "Due Today: {0}.",
+      "Heute nichts fällig — gut aufgestellt!": "Nothing due today — all good!",
+      "In Arbeit": "In Progress",
+      "In Arbeit setzen": "Set In Progress",
+      "Keine offenen Aufträge — alles erledigt.": "No open orders — all done.",
+      "Leg deinen ersten Auftrag an und starte die digitale Auftragsverwaltung.": "Create your first order and start managing jobs digitally.",
+      "Letzte Baudokumentation": "Recent Site Documentation",
+      "Neuer Auftrag": "New Order",
+      "Noch keine Fotos abgelegt": "No photos uploaded yet",
+      "Offen": "Open",
+      "Starten": "Start",
+      "Unbekannt": "Unknown",
+      "Unbenannt": "Unnamed",
+      "Verwalte alle Aufträge, Monteure und Baudokumentation an einem Ort — ohne Zettelwirtschaft.": "Manage all orders, technicians, and site documentation in one place — no paperwork.",
+      "Willkommen in deiner Auftragsverwaltung": "Welcome to Your Order Management",
+      "{0} {1} — alles läuft.": "{0} {1} — all on track.",
+      "{0} überfällig. Heute fällig: {1}.": "{0} overdue. Due today: {1}.",
+      "Überfällig": "Overdue",
+      "— 1 Auftrag überfällig.": "— 1 order overdue.",
+      "— {0} Aufträge überfällig.": "— {0} orders overdue."
+    }
+  },
+  "v": 1
+}
